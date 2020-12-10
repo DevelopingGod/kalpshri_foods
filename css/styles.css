@@ -1,0 +1,341 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  position: relative;
+  bottom: 120px;
+  font-size: 6rem;
+  font-family:'Sofia', cursive;
+  color: #790c5a;
+}
+
+h2 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 4rem;
+    padding-bottom: 200px;
+    color: #790c5a;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+
+th {
+  font-size: 1.2rem;
+}
+
+td {
+  font-size: 1rem;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+  border-bottom: 1px solid #790c5a;
+}
+
+.bhaji {
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.bottom_container {
+  position: relative;
+  background-color: #cc0e74;
+  padding-top: 1px;
+  padding-bottom: 80px;;
+  height: 500px;
+  margin-bottom: none;
+}
+
+.BUTTON_CDX {
+   position: relative;
+   bottom: 180px;
+   background: #fca3cc;
+   background-image: -webkit-linear-gradient(top, #fca3cc, #fca3cc);
+   background-image: -moz-linear-gradient(top, #fca3cc,#fca3cc);
+   background-image: -ms-linear-gradient(top, #fca3cc, #fca3cc);
+   background-image: -o-linear-gradient(top, #fca3cc, #fca3cc);
+   background-image: -webkit-gradient(to bottom, #fca3cc, #fca3cc);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 5px;
+   color: blue;
+   font-family: serif;
+   font-size: 25px;
+   font-weight: normal;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 10px 0 #000000;
+   -moz-box-shadow: 1px 1px 10px 0 #000000;
+   box-shadow: 1px 1px 10px 0 #000000;
+   text-shadow: 1px 1px 10px #000000;
+   border: solid #fca3cc 0.5px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CDX:hover {
+   color: white;
+   border: solid green 1px;
+   background: green;
+   background-image: -webkit-linear-gradient(top, green, green);
+   background-image: -moz-linear-gradient(top, green, green);
+   background-image: -ms-linear-gradient(top, green, green);
+   background-image: -o-linear-gradient(top, green, green);
+   background-image: -webkit-gradient(to bottom, green, green);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright {
+  position: relative;
+  bottom: 150px;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 1rem;
+  color: #fca3cc;
+}
+
+.def {
+  color: #fca3cc;
+  font-size: 1.7rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 200px;
+}
+
+.main_image {
+  position: absolute;
+  top: 600px;
+  right: 280px;
+  bottom: 20px;
+  border-radius: 100%;
+
+}
+
+.middle_top_container {
+  position: relative;
+  background-color: #f4abc4;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_center_container {
+  position: relative;
+  background-color: #f4abc4;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_bottom_container {
+  position: relative;
+  background-color: #f4abc4;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_bottommost_container {
+  position: relative;
+  background-color: #f4abc4;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.pav{
+  width: 70%;
+  margin: 20px 190px;
+}
+
+.pavmenu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.pavdishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 380px;
+  bottom: 320px;
+}
+
+.piz {
+  width: 70%;
+  margin: 20px 160px;
+}
+
+.piza {
+  position: relative;
+  left: 320px;
+  bottom: 70px;
+}
+
+.pizmenu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.pizdishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 300px;
+  bottom: 320px;
+}
+
+.pul {
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.pula {
+  border-radius: 100%;
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.pulmenu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.puldishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 360px;
+  bottom: 320px;
+}
+
+.pizza1 {
+  position: relative;
+  bottom: 50px;
+  left: 350px;
+}
+
+.plate {
+  position: relative;
+  bottom: 320px;
+  right: 350px;
+}
+
+.swe {
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.swet {
+  border-radius: 100%;
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.swets {
+  border-radius: 100%;
+  position: relative;
+  left: 320px;
+  bottom: 70px;
+}
+
+.sweets {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.sweetdishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 360px;
+  bottom: 320px;
+}
+
+.subtitle {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 4rem;
+  padding-bottom: 200px;
+  color: #790c5a;
+  position: relative;
+  bottom: 150px;
+  margin: auto;
+}
+
+.top_container{
+  background-color: #e6739f;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+
+.veg {
+  position: relative;
+  padding-bottom: 0;
+  right: 320px;
+  bottom: 50px;
+}
+
+.wait {
+  font-size: 40px;
+  color: #fbbedf;
+  width: 80%;
+  margin: 20px 110px;
+}
+
+
+/* For Css */
+.contus {
+  background-color: #e6739f;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+.contact {
+  position: relative;
+  width: 60%;
+  margin: auto;
+  font-size: 48px;
+}
+
+.line {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  position: relative;
+  bottom: 200px;
+}
+
+.ways {
+  color: black;
+  font-size: 25px;
+  text-align: left;
+  position: relative;
+  bottom: 220px;
+}
